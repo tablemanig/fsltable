@@ -1,0 +1,56 @@
+{
+  "league": {
+    "name": "Freestyle Super League",
+    "logo": "logo.png"
+  },
+  "teams": [
+    {
+      "position": 1,
+      "name": "Liverpool",
+      "logo": "Icon1.png",
+      "mp": 2, "w": 1, "d": 1, "l": 0, "gd": 3, "pts": 4,
+      "form": ["W", "D"],
+      "eliminated": false
+    },
+    {
+      "position": 2,
+      "name": "Olympique Lyonnais",
+      "logo": "Icon2.png",
+      "mp": 2, "w": 1, "d": 0, "l": 1, "gd": 3, "pts": 3,
+      "form": ["W", "L"],
+      "eliminated": false
+    },
+    {
+      "position": 3,
+      "name": "Chelsea",
+      "logo": "Icon3.png",
+      "mp": 2, "w": 1, "d": 0, "l": 1, "gd": 3, "pts": 3,
+      "form": ["L", "W"],
+      "eliminated": false
+    },
+    {
+      "position": 4,
+      "name": "Paris Saint Germain",
+      "logo": "Icon4.png",
+      "mp": 2, "w": 1, "d": 0, "l": 1, "gd": -2, "pts": 3,
+      "form": ["W", "L"],
+      "eliminated": false
+    },
+    {
+      "position": 5,
+      "name": "Fernebache",
+      "logo": "Icon5.png",
+      "mp": 2, "w": 1, "d": 0, "l": 1, "gd": -2, "pts": 3,
+      "form": ["L", "W"],
+      "eliminated": true
+    },
+    {
+      "position": 6,
+      "name": "Borussia Dortmund",
+      "logo": "Icon6.png",
+      "mp": 2, "w": 0, "d": 1, "l": 1, "gd": -5, "pts": 1,
+      "form": ["L", "D"],
+      "eliminated": true
+    }
+  ]
+}
